@@ -1,8 +1,8 @@
-package com.gmail.tsikalenko.nikita.Stream.model;
+package com.gmail.tsikalenko.nikita.stream.model;
 
 
-import com.gmail.tsikalenko.nikita.Stream.util.Util;
-import com.gmail.tsikalenko.nikita.Stream.view.View;
+import com.gmail.tsikalenko.nikita.stream.util.Util;
+import com.gmail.tsikalenko.nikita.stream.view.View;
 
 import java.util.Random;
 import java.util.Scanner;

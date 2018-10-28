@@ -1,6 +1,6 @@
-package com.gmail.tsikalenko.nikita.Stream.model;
+package com.gmail.tsikalenko.nikita.stream.model;
 
-import com.gmail.tsikalenko.nikita.Stream.view.View;
+import com.gmail.tsikalenko.nikita.stream.view.View;
 
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;

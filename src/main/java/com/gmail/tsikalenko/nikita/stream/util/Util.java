@@ -1,4 +1,4 @@
-package com.gmail.tsikalenko.nikita.Stream.util;
+package com.gmail.tsikalenko.nikita.stream.util;
 
 public class Util {
     public static final String INCORRECT_INPUT = "Incorrect input, try again";

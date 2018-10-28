@@ -1,6 +1,6 @@
-package com.gmail.tsikalenko.nikita.Stream;
+package com.gmail.tsikalenko.nikita.stream;
 
-import com.gmail.tsikalenko.nikita.Stream.controler.Controler;
+import com.gmail.tsikalenko.nikita.stream.controler.Controler;
 
 public class Main {
     public static void main(String[] args) {

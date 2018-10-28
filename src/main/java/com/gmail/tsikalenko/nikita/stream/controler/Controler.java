@@ -1,8 +1,8 @@
-package com.gmail.tsikalenko.nikita.Stream.controler;
+package com.gmail.tsikalenko.nikita.stream.controler;
 
-import com.gmail.tsikalenko.nikita.Stream.model.Model;
-import com.gmail.tsikalenko.nikita.Stream.model.StreamWorker;
-import com.gmail.tsikalenko.nikita.Stream.view.View;
+import com.gmail.tsikalenko.nikita.stream.model.Model;
+import com.gmail.tsikalenko.nikita.stream.model.StreamWorker;
+import com.gmail.tsikalenko.nikita.stream.view.View;
 
 import java.util.stream.IntStream;
 

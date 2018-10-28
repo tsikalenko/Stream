@@ -1,4 +1,4 @@
-package com.gmail.tsikalenko.nikita.Stream.view;
+package com.gmail.tsikalenko.nikita.stream.view;
 
 import java.util.stream.IntStream;
 
